@@ -7,3 +7,5 @@ venv/
 data/processed/
 data/raw/*
 !data/raw/.gitkeep
+configs_uv_git_etc_SymbolicLink.md
+*.code-workspace
